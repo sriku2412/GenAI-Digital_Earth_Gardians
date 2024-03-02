@@ -11,7 +11,7 @@ This project implements a Python application that utilizes the OpenAI API to eva
 * Ensure you have Python 3.10 installed on your system.
 * Clone the repository:
 ```bash
-git clone https://github.com/your-username/circular-economy-solution-evaluator.git
+git clone https://github.com/sriku2412/GenAI-Digital_Earth_Gardians.git
 cd circular-economy-solution-evaluator
 ```
 * Install dependencies:
