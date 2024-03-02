@@ -36,7 +36,7 @@ cd GenAI-Digital_Earth_Gardians
 ```
 2. Execute the main script:
 ```bash
-python evaluate_solution.py
+GenAI_model_digital_Earth_Guardian.ipynb
 ```
 
 The application will launch a Gradio interface at the following URL:
