@@ -12,7 +12,7 @@ This project implements a Python application that utilizes the OpenAI API to eva
 * Clone the repository:
 ```bash
 git clone https://github.com/sriku2412/GenAI-Digital_Earth_Gardians.git
-cd circular-economy-solution-evaluator
+cd GenAI-Digital_Earth_Gardians
 ```
 * Install dependencies:
 ```bash
@@ -32,7 +32,7 @@ Replace `INSERT YOUR API KEY HERE` with your actual OpenAI API key in the code.
 
 1. Navigate to the project directory:
 ```bash
-cd circular-economy-solution-evaluator
+cd GenAI-Digital_Earth_Gardians
 ```
 2. Execute the main script:
 ```bash
